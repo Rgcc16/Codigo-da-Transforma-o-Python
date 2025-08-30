@@ -1,0 +1,12 @@
+{
+    "cliente1": {
+        "nome": "Ana",
+        "idade": 28,
+        "email": "ana@email.com"
+    },
+    "cliente2": {
+        "nome": "Carlos",
+        "idade": 35,
+        "email": "carlos@email.com"
+    }
+}

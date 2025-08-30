@@ -1,0 +1,2 @@
+Olá! Este é um teste de gravação em um arquivo .txt.
+Segunda linha de informações.
